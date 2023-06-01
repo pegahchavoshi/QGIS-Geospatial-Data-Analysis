@@ -1,4 +1,4 @@
-# QGIS Geospatial Data Analysis and Visualization
+# Mapping the Geospatial Landscape: QGIS Data Analysis and Visualization
 
 
 ## Overview
